@@ -1,8 +1,5 @@
 ##ライブラリのインポート################################################################
 import streamlit as st
-import numpy as np  #数値処理のライブラリ
-import pandas as pd  #データ処理のライブラリ
-from PIL import Image #画像を扱うライブラリ
 import time
 ####################################################################################
 st.title('streamlit 超入門')
